@@ -3,14 +3,15 @@
 [![Open NeX in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1hXVvYdAwLA0EFg2zrafJUE0bFgB_F7PU#scrollTo=TFbN4mrJCp8o&sandboxMode=true)
 
 
-
 <div align=center>
+  
 <img  src="https://user-images.githubusercontent.com/33378412/229316353-5b1ffb33-7272-4417-bec4-83f185ee35b7.gif" width="450" height="420">
 <img  src="https://user-images.githubusercontent.com/33378412/229316692-c7843556-d2b2-471e-8ccb-07af82a22b69.gif" width="450" height="420"> 
 </div>  
 
 <div align=center>
 <img  src="https://user-images.githubusercontent.com/33378412/229318876-d9bf84a0-f833-4c36-a2b9-40744b9f49c0.gif" width="450" height="420">
+    
 <img  src="" width="450" height="420"> 
 </div> 
 
