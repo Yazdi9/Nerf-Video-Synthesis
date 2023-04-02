@@ -14,11 +14,6 @@
 
 </div>  
 
-<div align=center>
-
-
-</div> 
-
 
 ## Getting started
 
